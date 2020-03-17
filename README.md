@@ -1,1 +1,1 @@
-# Regression and Classification Tutorial for TSTT
+# Regression and Classification Tutorial
