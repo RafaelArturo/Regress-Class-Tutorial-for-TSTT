@@ -1,1 +1,1 @@
-# Regress-Class-for-TSTT
+# Regression and Classification Tutorial for TSTT
